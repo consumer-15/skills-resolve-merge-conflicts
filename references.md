@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+These are fake references
